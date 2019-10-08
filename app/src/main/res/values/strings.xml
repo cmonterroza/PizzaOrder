@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PizzaOrder</string>
+
+    <string name="round">Round</string>
+    <string name="square">Square</string>
+
+    <string-array name="ingredients">
+        <item>Pepperoni</item>
+        <item>Mushrooms</item>
+        <item>Veggies</item>
+        <item>Anchovies</item>
+    </string-array>
+
+    <string-array name="cheese_amount">
+        <item>No Cheese</item>
+        <item>Cheese</item>
+        <item>2x Cheese</item>
+    </string-array>
+</resources>
